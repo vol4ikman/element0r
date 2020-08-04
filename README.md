@@ -1,6 +1,9 @@
 # element0r
 
 ### Users DB
+
+users db = users-db.txt
+
 all users's password is <code>123321</code>
 
 users emails:
