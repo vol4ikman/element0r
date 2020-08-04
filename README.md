@@ -4,10 +4,13 @@
 all users's password is <code>123321</code>
 
 users emails:
-alex@gmail.com
-alex2@gmail.com
-alex3@gmail.com
-alex4@gmail.com
+
+<ol>
+    <li>alex@gmail.com</li>
+    <li>alex2@gmail.com</li>
+    <li>alex3@gmail.com</li>
+    <li>alex4@gmail.com</li>
+</ol>
 
 ## Project LIVE URL
 
