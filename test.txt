@@ -1,0 +1,4 @@
+1|alex@gmail.com|c8837b23ff8aaa8a2dde915473ce0991|01/08/2020|offline|0.000.000.000
+2|alex2@gmail.com|c8837b23ff8aaa8a2dde915473ce0991|01/08/2020|online|0.000.000.000
+3|alex3@gmail.com|c8837b23ff8aaa8a2dde915473ce0991|01/08/2020|offline|0.000.000.000
+4|alex4@gmail.com|c8837b23ff8aaa8a2dde915473ce0991|01/08/2020|offline|0.000.000.000
