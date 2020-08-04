@@ -24,6 +24,20 @@ $silver: dimgrey;
     background-color: transparent;
     background-image: linear-gradient(100deg,#f26798 0%,#3023ae 100%);
 }
+
+*,
+*::before,
+*::after {
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit;
+}
+
+html {
+    -webkit-text-size-adjust: 100%;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    font-size: 100%;
+}
 body {
     background: #f5f5f5;
 }
@@ -157,17 +171,9 @@ label {
                         font-weight: bold;
                         &.offline {
                             color: red;
-                            &:hover,
-                            &:focus {
-                                color: $white;
-                            }
                         }
                         &.online {
                             color: green;
-                            &:hover,
-                            &:focus {
-                                color: $white;
-                            }
                         }
                     }
                 }
@@ -208,5 +214,16 @@ label {
         line-height: 30px;
         font-weight: bold;
         font-size: 1.2rem;
+    }
+}
+
+@media only screen and (max-width: 860px ){
+
+    .users-section ul {
+        flex-flow: column;
+        li {
+            width: 100%;
+            margin-bottom: 20px;
+        }
     }
 }
